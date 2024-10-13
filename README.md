@@ -4,7 +4,7 @@ Over the next three months, I’ll be diving deep into an exciting **Machine Lea
 This isn’t just another course—it's a full-on adventure that takes on key ML topics, like:
 
 - 🌟 [Introduction to Machine Learning](#1-introduction-to-machine-learning)
-- 📊 [Machine Learning for Regression](#2-machine-learning-for-regression)
+- 📊 [Machine Learning for Regression](https://github.com/TeslimAdeyanju/DataTalks.Club-course-ml-zoomcamp/blob/main/module-2-note-machine_learning_for_regression.ipynb)
 - 🏷️ [Machine Learning for Classification](#3-machine-learning-for-classification)
 - 🧮 [Evaluation Metrics for Classification](#4-evaluation-metrics-for-classification)
 - 🚀 [Deploying Machine Learning Models](#5-deploying-machine-learning-models)
